@@ -2,6 +2,8 @@
 
 Uma cópia da rede social Instagram
 
+<img src= "https://user-images.githubusercontent.com/110337546/184051433-38618c4a-f203-4bbb-83d1-1482ba56c2ba.gif" width="250" height="490">
+
 ## 🎯 About
 Colocar em prática conhecimentos adquiridos.
 
