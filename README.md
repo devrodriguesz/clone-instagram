@@ -4,21 +4,21 @@ Uma cópia da rede social Instagram
 
 <img src= "https://user-images.githubusercontent.com/110337546/184051433-38618c4a-f203-4bbb-83d1-1482ba56c2ba.gif" width="250" height="490">
 
-## 🎯 About
+## 🎯 Sobre
 Colocar em prática conhecimentos adquiridos.
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 • [React Native](https://reactnative.dev)
 
 • [Javascript](https://www.javascript.com)
 
 • [React](https://pt-br.reactjs.org)
 
-## ✅ Requirements
+## ✅ Requisitos
 
 Antes de começar, você precisa ter [Git](https://git-scm.com), [Node](https://nodejs.org/en/) e [Android Studio](https://developer.android.com/studio) instalados.
 
-## 🏁 Starting
+## 🏁 Iniciando
 
 ```bash 
  # Clone this project
